@@ -1,0 +1,14 @@
+
+div{
+	border: 50px solid green;
+	padding: 100px;
+	margin-right: 200px; 
+	font-family: Garamond;
+   }
+
+body{
+	background-image:url(https://i0.wp.com/techpoint.ng/wp-content/uploads/2018/07/VGG-vibranium-1.jpg?ssl=1); 
+	background-color: rgba(0,200,240,0.8);
+	background-size: 200px
+	repeat:no-repeat;
+}
